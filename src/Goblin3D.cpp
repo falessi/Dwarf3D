@@ -1,5 +1,5 @@
 //============================================================================
-// Name        : Dwarf3D.cpp
+// Name        : Goblin3D.cpp
 // Author      : 
 // Version     :
 // Copyright   : falessi
